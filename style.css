@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Source+Code+Pro:ital,wght@1,200&display=swap');
+
+
+body{
+    background-image: url(https://www.pixel4k.com/wp-content/uploads/2020/10/wave-colour-abstract-4k_1602439648.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: 'Hubballi';
+    font-size: 60px;
+    color: rgb(5, 0, 36);
+}
+
+.input-group{
+    margin-bottom: 50px;
+}
+
+.container{
+    width: 110%;
+    margin: 30px auto 0px auto;
+   
+}
+
+.removed{
+    color: rgb(57, 255, 73);
+}
+
+.removed label{
+    text-decoration: line-through;
+    
+}
+
+ul li{
+    list-style-type: none;
+    color: white;
+}
+footer{
+    color: white;
+}
